@@ -1,0 +1,29 @@
+{
+  "name": "self-destruct",
+  "version": "1.0.0",
+  "description": "Destroy your own deployed applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/acceptance"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnyatesiv/self-destruct.git"
+  },
+  "keywords": [
+    "Self-destruct",
+    "locked",
+    "out",
+    "lost",
+    "access"
+  ],
+  "author": "John Yates",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnyatesiv/self-destruct/issues"
+  },
+  "homepage": "https://github.com/johnyatesiv/self-destruct#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
